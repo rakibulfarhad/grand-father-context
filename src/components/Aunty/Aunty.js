@@ -7,7 +7,7 @@ const Aunty = () => {
     return (
         <div>
             <h2>Aunty</h2>
-            <p>house: {house}</p>
+            <p>House: {house}</p>
             <p>{ornaments}</p>
         </div>
     );
